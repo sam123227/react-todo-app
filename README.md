@@ -30,7 +30,9 @@ npm run dev
 
 ## 📸 Screenshot
 
-_Add a screenshot here later._
+
+
+![Todo App](./screenshot/todo.png)
 
 ## 👨‍💻 Author
 

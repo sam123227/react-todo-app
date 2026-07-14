@@ -30,9 +30,10 @@ npm run dev
 
 ## 📸 Screenshot
 
-
-
 ![Todo App](./screenshot/todo.png)
+
+## 🌐 Live Demo
+https://react-todo-app-olive-beta.vercel.app/
 
 ## 👨‍💻 Author
 

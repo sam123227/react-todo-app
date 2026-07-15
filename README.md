@@ -1,25 +1,25 @@
-# 📝 React Todo App
+#  React Todo App
 
 A clean and responsive Todo application built with React and Tailwind CSS.
 
-## ✨ Features
+##  Features
 
-- ➕ Add new tasks
-- ✅ Mark tasks as completed
-- ❌ Delete tasks
-- 🔍 Filter tasks (All, Active, Completed)
-- 📊 Task statistics (Total, Completed, Remaining)
-- 💾 Local Storage support
-- 📱 Responsive design
+-  Add new tasks
+-  Mark tasks as completed
+-  Delete tasks
+-  Filter tasks (All, Active, Completed)
+- Task statistics (Total, Completed, Remaining)
+-  Local Storage support
+-  Responsive design
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - React
 - JavaScript (ES6+)
 - Tailwind CSS
 - Vite
 
-## 🚀 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/sam123227/react-todo-app.git
@@ -28,13 +28,11 @@ npm install
 npm run dev
 ```
 
-## 📸 Screenshot
+##  Screenshot
 
 ![Todo App](./screenshot/todo.png)
 
-## 🌐 Live Demo
+##  Live Demo
 https://react-todo-app-olive-beta.vercel.app/
 
-## 👨‍💻 Author
 
-Samir
